@@ -1,0 +1,7 @@
+001,Alice,Expert,Alice@gmail.com,Alice is a highly skilled facial expert with over 10 years of experience. She specializes in rejuvenating treatments and personalized skincare routines.
+002,Candy,Expert,Candy@gmail.com,Candy is a renowned spa therapist with a passion for holistic wellness. She offers a variety of spa treatments designed to relax and rejuvenate.
+003,Betty,Expert,Betty@gmail.com,Betty is a professional makeup artist with a keen eye for detail. He specializes in creating flawless looks for various occasions, from weddings to photo shoots.
+004,Syed Raiz Jamalullil,Assintant Manager,syedraiz@gmail.com,Syed Raiz Jamalullil is an experienced manager with a strong background in spa and wellness center operations.
+005,Lee Khar Min,Cashier, leekharmin@gmail.com, Lee Khar min is a cashier working part time to make money in school and is very efficient in counting money.
+006,Chew Kai Chuan,Manager,chewkaichuan@gmail.com,Chew Kai Chuan is an experienced manager with a strong background in spa and wellness center operations.
+007,Abby Loo,Receptionist,abbyloo@gmail.com,Abby Loo is a friendly and efficient receptionist who ensures smooth operations at the front desk.

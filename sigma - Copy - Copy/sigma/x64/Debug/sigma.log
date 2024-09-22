@@ -1,0 +1,4 @@
+﻿  code.cpp
+C:\Users\karpe\OneDrive\Desktop\sigma - Copy - Copy\sigma\code.cpp(724,49): warning C4101: 'e': unreferenced local variable
+C:\Users\karpe\OneDrive\Desktop\sigma - Copy - Copy\sigma\code.cpp(727,45): warning C4101: 'e': unreferenced local variable
+  sigma.vcxproj -> C:\Users\karpe\OneDrive\Desktop\sigma - Copy - Copy\x64\Debug\sigma.exe

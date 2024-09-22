@@ -1,0 +1,15 @@
+Mon/14 Alice Available Available Available Available
+Mon/14 Betty Available Available Available Available
+Mon/14 Candy Booked Available Available Available
+Tue/15 Alice Available Available Booked Available
+Tue/15 Betty Available Available Available Available
+Tue/15 Candy Available Available Available Available
+Wed/16 Alice Available Available Available Available
+Wed/16 Betty Available Available Available Available
+Wed/16 Candy Available Available Available Available
+Thu/17 Alice Booked Available Available Available
+Thu/17 Betty Available Booked Available Booked
+Thu/17 Candy Available Available Available Available
+Fri/18 Alice Available Available Available Available
+Fri/18 Betty Booked Available Available Available
+Fri/18 Candy Available Booked Available Available

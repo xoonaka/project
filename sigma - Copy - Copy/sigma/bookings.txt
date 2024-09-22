@@ -1,0 +1,8 @@
+C3,syed,11111111,karpe678@gmail.com,Makeup Consultation,Mon/7,4pm-5pm,Alice,100
+C4,syed,97720052,karpe678@gmail.com,Spa Treatment,Tue/22,10am-12pm,Alice,800
+C5,john,111111111,john@yahoo.com,Spa Consultation,Tue/22,4pm-5pm,Betty,200
+C6,niggachin,167433943,niggachin1@gmail.com,Facial Treatment,Fri/18,10am-12pm,Betty,500
+C7,hanumankind,99999999,bigdawgs@gmail.com,Spa Treatment,Fri/25,10am-12pm,Alice,800
+C8,brotherehh,11111111,brotherehh@gmail.com,Makeup Treatment,Fri/25,10am-12pm,Candy,300
+C9,Weizun,122221111,sweizhun@gmail.com,Spa Consultation,Fri/25,3pm-4pm,Candy,200
+C10,Alison,111111111,alison@gmail.com,Facial Treatment,Thu/17,10am-12pm,Alice,500

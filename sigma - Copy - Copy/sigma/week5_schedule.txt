@@ -1,0 +1,15 @@
+Mon/28 Alice Available Available Available Available
+Mon/28 Betty Available Available Available Available
+Mon/28 Candy Available Available Booked Booked
+Tue/29 Alice Booked Available Available Available
+Tue/29 Betty Available Available Available Available
+Tue/29 Candy Available Available Available Available
+Wed/30 Alice Booked Booked Booked Booked
+Wed/30 Betty Booked Booked Booked Booked
+Wed/30 Candy Booked Booked Booked Booked
+Thu/31 Alice Available Available Available Available
+Thu/31 Betty Available Booked Booked Available
+Thu/31 Candy Available Available Available Available
+Fri/1 Alice Unavailable Unavailable Unavailable Unavailable
+Fri/1 Betty Unavailable Unavailable Unavailable Unavailable
+Fri/1 Candy Unavailable Unavailable Unavailable Unavailable
